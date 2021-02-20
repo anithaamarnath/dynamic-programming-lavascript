@@ -19,4 +19,4 @@ const bestSum = (targetSum, numbers )=>{
 
 console.log(bestSum(7,[2,3,7]))
 console.log(bestSum(7,[5,3,4,7]));
-// console.log(bestSum(140,[5,3,4,7]));
+//console.log(bestSum(140,[5,3,4,7]));
